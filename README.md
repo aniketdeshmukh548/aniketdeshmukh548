@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, Aniket Deshmukh</h1>
 <h3 align="center">A passionate ReactJs developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/lP8xu5t2DLGG045H8F.webp">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketdeshmukh548&label=Profile%20views&color=0e75b6&style=flat" alt="aniketdeshmukh548" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniketdeshmukh548" alt="aniketdeshmukh548" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://anikets-portfolio.netlify.app/](https://anikets-portfolio.netlify.app/)
 
